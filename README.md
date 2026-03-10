@@ -10,4 +10,4 @@ The app requests the following permissions:
 - Camera: for scanning documents
 - Storage: for reading and saving PDF files
 
-If you have questions, contact: [your email here]
+If you have questions, contact: [vazirpirov15@gmail.com]
